@@ -22,7 +22,7 @@
     <section style="font-size: 20px; text-align: justify;">
     <h2>Meus hobbies</h2> <h3>Futebol</h3><h4>Desde criança até hoje sempre fui fã do esporte, hoje em dia custumo jogar com meus amigos e pelo River Campinense(clube de campinas)</h4></section>
     <section>
-        <p style="text-align: center;"><img src="https://i.imgur.com/8UwMsE4.jpg" width="539" height="546"></p>
+        <p style="text-align: center;"><img src"https://i.imgur.com/uRFctZN.jpg" width="539" height="546"></p>
         <legend style="text-align: center;"> Foto minha usando terno</legend>
     </section>
     <br>
